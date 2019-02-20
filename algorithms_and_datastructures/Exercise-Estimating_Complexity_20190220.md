@@ -8,11 +8,12 @@ Check the updates on the Associated GitHub Repo
 
 **Task**: Let's estimate complexity, both spatial and computational, for different problems
 
+
 ## Meta 
 
 | Field         | value         |
 | ------------- |-------------|
-| Name      | Exercise- Estimating Complexity 20190220 |
+| Name      | Exercise - Estimating Complexity 20190220 |
 | Description      | Exercises about complexity estimation of different algos      |
 | Ver | 0.1      |
 | Last Update | 2019-02-20      |
